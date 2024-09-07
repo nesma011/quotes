@@ -1,0 +1,27 @@
+main div.container button
+{
+    background-color: rgb(2, 65, 107) !important;
+    color: white!important;
+}
+main div.container button:hover
+{
+    background-color:lightblue!important;
+    color: black!important;
+}
+main div.container h1
+{
+    font-size: 80px;
+    font-weight: 600;
+
+}
+main div.container p{
+    color: #447089;
+}
+
+main div.container
+{
+    background-image: url(../bg3.avif);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
